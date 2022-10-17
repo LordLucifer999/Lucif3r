@@ -6,3 +6,9 @@
 $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests bs4 futures
+$ pip install cyton
+$ rm -rf Brute
+$ git clone https://GitHub.com/Lucif3r/Brute
+
+
+ Okay now the script is installed
