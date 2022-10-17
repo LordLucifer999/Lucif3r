@@ -1,1 +1,1 @@
-# Lucif3r
+# HOW TO INSTALL SCRIPT
