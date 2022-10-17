@@ -23,3 +23,5 @@ $ python run.py
  $ cd Brute
  $ git pull
  $ python run.py
+ 
+# LOGIN COOKIE: 
