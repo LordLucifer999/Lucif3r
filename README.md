@@ -12,3 +12,5 @@ $ git clone https://github.com/Lucif3r/Brute
 
 
  Okay now the script is installed
+ 
+# HOW TO RUN SCRIPT
